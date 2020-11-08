@@ -1,1 +1,2 @@
-Universitas Semarang
+Universitas Semarangstash@{0}: WIP on main: d8ff40d merge branch
+stash@{1}: WIP on main: 31dcf4b branch baru
